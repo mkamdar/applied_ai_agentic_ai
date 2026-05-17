@@ -1,1 +1,2 @@
-# applied_ai_agentic_ai
+# Applied AI And Agentic AI
+
